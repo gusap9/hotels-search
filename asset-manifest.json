@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-hotels-search/static/css/main.dc8a41e0.css",
+    "main.js": "/simple-hotels-search/static/js/main.c795ece8.js",
+    "static/media/bg.png": "/simple-hotels-search/static/media/bg.305d247eb67379ff01e0.png",
+    "static/media/scroller3.jpeg": "/simple-hotels-search/static/media/scroller3.553b980bbc054b57da0c.jpeg",
+    "static/media/scroller4.jpeg": "/simple-hotels-search/static/media/scroller4.9dbf74a2908ab70d503a.jpeg",
+    "static/media/scroller2.jpeg": "/simple-hotels-search/static/media/scroller2.25f4eaaf9cb0256ce935.jpeg",
+    "static/media/scroller1.jpeg": "/simple-hotels-search/static/media/scroller1.41db5618f2a50d590be2.jpeg",
+    "static/media/house.svg": "/simple-hotels-search/static/media/house.51d05d797890bdb911ffc5d4df8f6dc7.svg",
+    "static/media/unfav.svg": "/simple-hotels-search/static/media/unfav.12e0baf1a8017f8b5e41334e6897f733.svg",
+    "static/media/fav.svg": "/simple-hotels-search/static/media/fav.3e152b3d347d50b649808dad96dfe55e.svg",
+    "index.html": "/simple-hotels-search/index.html",
+    "static/media/exit.svg": "/simple-hotels-search/static/media/exit.6541d62259e47627326550b1557c3866.svg",
+    "static/media/vector.svg": "/simple-hotels-search/static/media/vector.ecfc16f7a5f0685dc81942c312c3f763.svg",
+    "main.dc8a41e0.css.map": "/simple-hotels-search/static/css/main.dc8a41e0.css.map",
+    "main.c795ece8.js.map": "/simple-hotels-search/static/js/main.c795ece8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc8a41e0.css",
+    "static/js/main.c795ece8.js"
+  ]
+}
