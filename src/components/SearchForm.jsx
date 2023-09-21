@@ -1160,7 +1160,7 @@ const SearchForm = ({ locationSubmit }) => {
                 <option >Яхрома</option>
             </SimpleSelect>
             <p>Дата заселения</p>
-            <input type={type} placeholder={formatDate(new Date())} name="trip-start" min={today} max="2023-01-01"
+            <input type={type} placeholder={formatDate(new Date())} name="trip-start" min={today}
                 onFocus={focusDate} onChange={ (e) => setDate(e.target.value) } />
             <p>Количество дней</p>
             <input name="trip-durations" type="number" placeholder="1" min="1" max="90" onChange={(e) => setCountOfDays(e.target.value) } />
