@@ -1,4 +1,3 @@
-<img alt="todo" src="public/hotels-search.gif" height="400px" align="right"> </img>
 <h1 align="center"> <a href="https://gusap9.github.io/simple-hotels-search/" target="_blank"> React Hotels Search App </a></h1>
 
 ## About 
@@ -6,9 +5,15 @@ React-Application for hotels searching in Russia.
 
 ## Peculiarities
 Important points of this app:
-- login validation.
-- date, city and check-in period are changeable.
-- hotels can be added to favorites.
+- login validation. &#8595;&#8595;&#8595;
+
+<img alt="hotels-search" src="public/validation.gif" height="400px"> </img>
+- date, city and check-in period are changeable. &#8595;&#8595;&#8595;
+
+<img alt="hotels-search" src="public/search.gif" height="400px"> </img>
+- hotels can be added to favorites. &#8595;&#8595;&#8595;
+
+<img alt="hotels-search" src="public/favourite.gif" height="400px"> </img>
 
 ## Usage
 To see the project you can directly visit:
