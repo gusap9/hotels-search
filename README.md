@@ -3,6 +3,15 @@
 ## About 
 React-Application for hotels searching in Russia.
 
+## Usage
+To see the project you can directly visit:
+<p><a href="https://gusap9.github.io/simple-hotels-search/" target="_blank"><code style="margin-left:40px">https://gusap9.github.io/simple-hotels-search/</code></a></p>
+
+To use the app localy:
+- clone the todo repo.
+- install the dependencies.
+- run `npm run start`.
+
 ## Peculiarities
 Important points of this app:
 - login validation. &#8595;&#8595;&#8595;
@@ -15,11 +24,3 @@ Important points of this app:
 
 <img alt="hotels-search" src="public/favourite.gif" height="400px"> </img>
 
-## Usage
-To see the project you can directly visit:
-<p><a href="https://gusap9.github.io/simple-hotels-search/" target="_blank"><code style="margin-left:40px">https://gusap9.github.io/simple-hotels-search/</code></a></p>
-
-To use the app localy:
-- clone the todo repo.
-- install the dependencies.
-- run `npm run start`.
